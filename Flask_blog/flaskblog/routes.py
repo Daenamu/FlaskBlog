@@ -157,7 +157,7 @@ def user_posts(username):
 
 
 def send_reset_email(user):
-    
+    pass
 
 
 @app.route("/reset_password", methods=['GET', 'POST'])
