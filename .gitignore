@@ -1,0 +1,5 @@
+venv
+Flask_blog/**/__pycache__
+.idea
+Flask_blog/flaskblog/config.py
+Flask_blog/flaskblog/site.db
